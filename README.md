@@ -1,1 +1,1 @@
-# simpleAlgorithms
+# Simple-Algorithms
